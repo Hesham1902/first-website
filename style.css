@@ -384,7 +384,7 @@
 /* numbers section */
 .numbers {
     position: relative;
-    background-image: url(./images/test.jpg);
+    background-image: "./images/test.jpg";
 
     height: 350px;
     background-size: cover;
